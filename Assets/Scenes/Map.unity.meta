@@ -5,3 +5,10 @@ DefaultImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160540
+  packageName: Stone Wall - Photo Based PBR
+  packageVersion: 1.1
+  assetPath: Assets/Scenes/SampleScene.unity
+  uploadId: 348999
