@@ -1,0 +1,285 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2688014380198344454
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2698020175167456526}
+  m_Layer: 0
+  m_Name: NPC
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2698020175167456526
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2688014380198344454}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -25.556078, y: 71.99089, z: 52.282803}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4953944439804857170}
+  - {fileID: 8011713806221361093}
+  - {fileID: 6186655196815644126}
+  - {fileID: 3783432646406014339}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &3678256237114876520
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2698020175167456526}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 59efdab88aa46ec49910780d192d81b1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.450077
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 59efdab88aa46ec49910780d192d81b1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -23.31189
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 59efdab88aa46ec49910780d192d81b1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11.620804
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 59efdab88aa46ec49910780d192d81b1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.6471099
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 59efdab88aa46ec49910780d192d81b1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.03849163
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 59efdab88aa46ec49910780d192d81b1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.760081
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 59efdab88aa46ec49910780d192d81b1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.04521141
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 59efdab88aa46ec49910780d192d81b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 6.808
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 59efdab88aa46ec49910780d192d81b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 99.18
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 59efdab88aa46ec49910780d192d81b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 59efdab88aa46ec49910780d192d81b1, type: 3}
+      propertyPath: m_Name
+      value: Erika Archer@Sitting (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 59efdab88aa46ec49910780d192d81b1, type: 3}
+--- !u!4 &3783432646406014339 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 59efdab88aa46ec49910780d192d81b1, type: 3}
+  m_PrefabInstance: {fileID: 3678256237114876520}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4842859738144861369
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2698020175167456526}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: eecb8d255591e2b41bd505d5c2a2b38f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -14.895605
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eecb8d255591e2b41bd505d5c2a2b38f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -23.556377
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eecb8d255591e2b41bd505d5c2a2b38f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 15.451878
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eecb8d255591e2b41bd505d5c2a2b38f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.40660563
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eecb8d255591e2b41bd505d5c2a2b38f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eecb8d255591e2b41bd505d5c2a2b38f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.91360384
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eecb8d255591e2b41bd505d5c2a2b38f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eecb8d255591e2b41bd505d5c2a2b38f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eecb8d255591e2b41bd505d5c2a2b38f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 132.016
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eecb8d255591e2b41bd505d5c2a2b38f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eecb8d255591e2b41bd505d5c2a2b38f, type: 3}
+      propertyPath: m_Name
+      value: Knight D Pelegrini@Mutant Jumping (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eecb8d255591e2b41bd505d5c2a2b38f, type: 3}
+--- !u!4 &4953944439804857170 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: eecb8d255591e2b41bd505d5c2a2b38f, type: 3}
+  m_PrefabInstance: {fileID: 4842859738144861369}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5931754606189621813
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2698020175167456526}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e4a4e08329c93f34f9a4e5c531190b55, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 29.566078
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e4a4e08329c93f34f9a4e5c531190b55, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -23.581448
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e4a4e08329c93f34f9a4e5c531190b55, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7.152851
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e4a4e08329c93f34f9a4e5c531190b55, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e4a4e08329c93f34f9a4e5c531190b55, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e4a4e08329c93f34f9a4e5c531190b55, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e4a4e08329c93f34f9a4e5c531190b55, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e4a4e08329c93f34f9a4e5c531190b55, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e4a4e08329c93f34f9a4e5c531190b55, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e4a4e08329c93f34f9a4e5c531190b55, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e4a4e08329c93f34f9a4e5c531190b55, type: 3}
+      propertyPath: m_Name
+      value: Peasant Girl@Dwarf Idle (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e4a4e08329c93f34f9a4e5c531190b55, type: 3}
+--- !u!4 &6186655196815644126 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: e4a4e08329c93f34f9a4e5c531190b55, type: 3}
+  m_PrefabInstance: {fileID: 5931754606189621813}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7540690708401215534
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2698020175167456526}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: b8a714c022b9e274792d4b079e26bc4f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13.516078
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b8a714c022b9e274792d4b079e26bc4f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -23.551853
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b8a714c022b9e274792d4b079e26bc4f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 38.887196
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b8a714c022b9e274792d4b079e26bc4f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.37717098
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b8a714c022b9e274792d4b079e26bc4f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b8a714c022b9e274792d4b079e26bc4f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.92614365
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b8a714c022b9e274792d4b079e26bc4f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b8a714c022b9e274792d4b079e26bc4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b8a714c022b9e274792d4b079e26bc4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 224.317
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b8a714c022b9e274792d4b079e26bc4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b8a714c022b9e274792d4b079e26bc4f, type: 3}
+      propertyPath: m_Name
+      value: Paladin J Nordstrom@Surprised
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b8a714c022b9e274792d4b079e26bc4f, type: 3}
+--- !u!4 &8011713806221361093 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: b8a714c022b9e274792d4b079e26bc4f, type: 3}
+  m_PrefabInstance: {fileID: 7540690708401215534}
+  m_PrefabAsset: {fileID: 0}
